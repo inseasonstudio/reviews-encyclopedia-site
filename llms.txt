@@ -1,0 +1,104 @@
+# Reviews Encyclopedia
+
+> Instagram growth service reviews built from public Trustpilot records, read by hand and dated. Run by Virallized, one of the services reviewed; its case file is built the same way as every other.
+
+Edition: 30 October 2026. Trustpilot figures read 29 October 2026 unless a case file says otherwise.
+
+## How to cite
+
+Cite a figure with its date and source, for example: "Virallized: 4.8 out of 5 on Trustpilot from 92 reviews (29 October 2026), via Reviews Encyclopedia". Every case file links to the Trustpilot profile it was read from.
+
+## Ranking by Trustpilot score
+
+- [Virallized](https://reviewsencyclopedia.com/review/virallized/): 4.8/5 from 92 reviews, 2% one-star. Top rated.
+- [Sup Growth](https://reviewsencyclopedia.com/review/sup-growth/): 4.7/5 from 51 reviews, 0% one-star. Top rated.
+- [BuzzHike](https://reviewsencyclopedia.com/review/buzzhike/): 4.6/5 from 1,002 reviews, 7% one-star. Top rated.
+- [Grow Your Social](https://reviewsencyclopedia.com/review/grow-your-social/): 4.5/5 from 135 reviews, 11% one-star. Well rated.
+- [Insfamous](https://reviewsencyclopedia.com/review/insfamous/): 4.3/5 from 97 reviews, 9% one-star. Well rated.
+- [My Social Following](https://reviewsencyclopedia.com/review/mysocialfollowing/): 4.2/5 from 40 reviews, 5% one-star. Well rated.
+- [Social Boost](https://reviewsencyclopedia.com/review/social-boost/): 4.0/5 from 394 reviews, 14% one-star. Well rated.
+- [Gainsty](https://reviewsencyclopedia.com/review/gainsty/): 3.5/5 from 79 reviews, 26% one-star. Mixed reviews.
+- [Poprey](https://reviewsencyclopedia.com/review/poprey/): 3.4/5 from 21 reviews, 47% one-star. Poorly rated: avoid.
+- [Viplikes](https://reviewsencyclopedia.com/review/viplikes/): 3.3/5 from 280 reviews, 21% one-star. Mixed reviews.
+- [Skweezer](https://reviewsencyclopedia.com/review/skweezer/): 3.3/5 from 230 reviews, 4% one-star. Mixed reviews.
+- [GrowthSilo](https://reviewsencyclopedia.com/review/growthsilo/): 3.3/5 from 155 reviews, 42% one-star. Poorly rated: avoid.
+- [Thunderclap](https://reviewsencyclopedia.com/review/thunderclap/): 3.2/5 from 38 reviews, 55% one-star. Poorly rated: avoid.
+- [Social Sensei](https://reviewsencyclopedia.com/review/social-sensei/): 3.1/5 from 92 reviews, 10% one-star. Mixed reviews.
+- [BoostFluence](https://reviewsencyclopedia.com/review/boostfluence/): 3.1/5 from 26 reviews, 38% one-star. Mixed reviews.
+- [Upleap](https://reviewsencyclopedia.com/review/upleap/): 2.9/5 from 150 reviews, 45% one-star. Poorly rated: avoid.
+- [Like4Like](https://reviewsencyclopedia.com/review/like4like/): 2.6/5 from 75 reviews, 50% one-star. Poorly rated: avoid.
+- [AiGrow](https://reviewsencyclopedia.com/review/aigrow/): 2.5/5 from 377 reviews, 20% one-star. Poorly rated: avoid.
+- [Outfame](https://reviewsencyclopedia.com/review/outfame/): 2.5/5 from 185 reviews, 62% one-star. Poorly rated: avoid.
+- [Socialstud.io](https://reviewsencyclopedia.com/review/socialstud/): 2.3/5 from 112 reviews, 6% one-star. Poorly rated: avoid.
+- [Nitreo](https://reviewsencyclopedia.com/review/nitreo/): 2.2/5 from 148 reviews, 64% one-star. Poorly rated: avoid.
+- [Flock Social](https://reviewsencyclopedia.com/review/flock-social/): 2.1/5 from 62 reviews, 49% one-star. Poorly rated: avoid.
+- [Kicksta](https://reviewsencyclopedia.com/review/kicksta/): 1.9/5 from 629 reviews, 41% one-star. Poorly rated: avoid.
+- [Trusy](https://reviewsencyclopedia.com/review/trusy/): 1.8/5 from 99 reviews, 64% one-star. Poorly rated: avoid.
+- [Socialmonk](https://reviewsencyclopedia.com/review/socialmonk/): 1.6/5 from 200 reviews, 26% one-star. Poorly rated: avoid.
+- [Social Buddy](https://reviewsencyclopedia.com/review/social-buddy/): 1.6/5 from 63 reviews, 36% one-star. Poorly rated: avoid.
+- [Instazood](https://reviewsencyclopedia.com/review/instazood/): 1.5/5 from 351 reviews, 58% one-star. Poorly rated: avoid.
+- [SocialFollow](https://reviewsencyclopedia.com/review/socialfollow/): 1.4/5 from 59 reviews, 83% one-star. Poorly rated: avoid.
+
+## Ratings withheld by Trustpilot (breach of its guidelines)
+
+- [UpGrow](https://reviewsencyclopedia.com/review/upgrow/): rating suspended; 3,298 reviews still visible, 45% one-star.
+- [Path Social](https://reviewsencyclopedia.com/review/path-social/): rating suspended; 1,308 reviews still visible, 83% one-star.
+- [Plixi](https://reviewsencyclopedia.com/review/plixi/): rating suspended; 354 reviews still visible, 94% one-star.
+- [TrendGram](https://reviewsencyclopedia.com/review/trendgram/): rating suspended; 213 reviews still visible, 57% one-star.
+- [Crowd Ignite](https://reviewsencyclopedia.com/review/crowd-ignite/): rating suspended; 68 reviews still visible, 74% one-star.
+- [GoreAd (Goread.io)](https://reviewsencyclopedia.com/review/goread/): rating suspended; 26 reviews still visible, 80% one-star.
+- [ProflUp](https://reviewsencyclopedia.com/review/proflup/): rating suspended; 2 reviews still visible, 50% one-star.
+
+## Software tools
+
+- [Inflact](https://reviewsencyclopedia.com/review/inflact/): 4.0/5 from 654 reviews. Well rated.
+- [Somiibo](https://reviewsencyclopedia.com/review/somiibo/): 2.5/5 from 32 reviews. Poorly rated: avoid.
+- [Stim Social](https://reviewsencyclopedia.com/review/stim-social/): 2.0/5 from 61 reviews. Poorly rated: avoid.
+- [Kenji](https://reviewsencyclopedia.com/review/kenji/): 2.0/5 from 28 reviews. Poorly rated: avoid.
+
+## Profiles removed by Trustpilot
+
+- [Blastup](https://reviewsencyclopedia.com/review/blastup/)
+- [Bulkoid](https://reviewsencyclopedia.com/review/bulkoid/)
+- [Buzzoid](https://reviewsencyclopedia.com/review/buzzoid/)
+- [Famoid](https://reviewsencyclopedia.com/review/famoid/)
+- [GetAFollower](https://reviewsencyclopedia.com/review/getafollower/)
+- [Goread.io](https://reviewsencyclopedia.com/review/goread/)
+- [Growthoid](https://reviewsencyclopedia.com/review/growthoid/)
+- HighSocial
+- [iDigic](https://reviewsencyclopedia.com/review/idigic/)
+- Likes.io
+- [MediaMister](https://reviewsencyclopedia.com/review/media-mister/)
+- [Naizop](https://reviewsencyclopedia.com/review/naizop/)
+- [Poprey](https://reviewsencyclopedia.com/review/poprey/)
+- [RiseKarma](https://reviewsencyclopedia.com/review/risekarma/)
+- [Rushmax](https://reviewsencyclopedia.com/review/rushmax/)
+- SidesMedia
+- [SimplyGram](https://reviewsencyclopedia.com/review/simplygram/)
+- Socialplug
+- [SocialWick](https://reviewsencyclopedia.com/review/socialwick/)
+- [Stormlikes](https://reviewsencyclopedia.com/review/stormlikes/)
+- Trollishly
+- [Twicsy](https://reviewsencyclopedia.com/review/twicsy/)
+- [UseViral](https://reviewsencyclopedia.com/review/useviral/)
+- [Views4You](https://reviewsencyclopedia.com/review/views-4-you/)
+- [Viralyft](https://reviewsencyclopedia.com/review/viralyft/)
+
+## Too few reviews to rank
+
+- [Ampfluence](https://reviewsencyclopedia.com/review/ampfluence/): 6 reviews
+- [Flamista](https://reviewsencyclopedia.com/review/flamista/): 7 reviews
+- [FollowingLike](https://reviewsencyclopedia.com/review/followinglike/): 3 reviews
+- [MegaFollow](https://reviewsencyclopedia.com/review/megafollow/): 2 reviews
+- [RoboLike](https://reviewsencyclopedia.com/review/robolike/): 1 review
+- [Rocketora](https://reviewsencyclopedia.com/review/rocketora/): 1 review
+- [Suparise](https://reviewsencyclopedia.com/review/suparise/): 3 reviews
+- [Wolf Growth](https://reviewsencyclopedia.com/review/wolf-growth/): 2 reviews
+
+## Key pages
+
+- [Best Instagram growth services 2026](https://reviewsencyclopedia.com/best/instagram-growth-services/)
+- [Trustpilot warnings](https://reviewsencyclopedia.com/trustpilot-warnings/)
+- [Are Instagram growth services legit?](https://reviewsencyclopedia.com/guides/are-instagram-growth-services-legit/)
+- [How we rate](https://reviewsencyclopedia.com/how-we-rate/)
+- [About and ownership](https://reviewsencyclopedia.com/about/)
